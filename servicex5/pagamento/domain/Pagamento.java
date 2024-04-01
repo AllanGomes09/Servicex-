@@ -1,6 +1,6 @@
-package br.com.allan.servicex55.pagamento.domain;
+package br.com.allan.servicex5.pagamento.domain;
 
-import br.com.allan.servicex55.ordemDeServico.domain.OrdemDeServico;
+import br.com.allan.servicex5.ordemDeServico.domain.OrdemDeServico;
 import jakarta.persistence.*;
 
 import java.util.Objects;
