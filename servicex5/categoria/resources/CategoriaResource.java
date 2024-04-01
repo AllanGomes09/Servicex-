@@ -1,7 +1,7 @@
-package br.com.allan.servicex55.categoria.resources;
+package br.com.allan.servicex5.categoria.resources;
 
-import br.com.allan.servicex55.categoria.domain.Categoria;
-import br.com.allan.servicex55.categoria.services.CategoriaService;
+import br.com.allan.servicex5.categoria.domain.Categoria;
+import br.com.allan.servicex5.categoria.services.CategoriaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
