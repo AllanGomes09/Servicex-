@@ -1,7 +1,7 @@
-package br.com.allan.servicex55.ordemDeServico.domain;
+package br.com.allan.servicex5.ordemDeServico.domain;
 
-import br.com.allan.servicex55.pagamento.domain.Pagamento;
-import br.com.allan.servicex55.servico.domain.Servico;
+import br.com.allan.servicex5.pagamento.domain.Pagamento;
+import br.com.allan.servicex5.servico.domain.Servico;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
