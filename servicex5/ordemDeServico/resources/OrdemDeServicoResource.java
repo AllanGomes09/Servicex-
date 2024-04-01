@@ -1,6 +1,6 @@
-package br.com.allan.servicex55.ordemDeServico.resources;
+package br.com.allan.servicex5.ordemDeServico.resources;
 
-import br.com.allan.servicex55.ordemDeServico.services.OrdemDeServicoService;
+import br.com.allan.servicex5.ordemDeServico.services.OrdemDeServicoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
