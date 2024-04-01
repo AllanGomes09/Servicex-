@@ -1,7 +1,7 @@
-package br.com.allan.servicex55.servico.domain;
+package br.com.allan.servicex5.servico.domain;
 
-import br.com.allan.servicex55.categoria.domain.Categoria;
-import br.com.allan.servicex55.ordemDeServico.domain.OrdemDeServico;
+import br.com.allan.servicex5.categoria.domain.Categoria;
+import br.com.allan.servicex5.ordemDeServico.domain.OrdemDeServico;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
