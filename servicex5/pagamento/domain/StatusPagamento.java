@@ -1,4 +1,4 @@
-package br.com.allan.servicex55.pagamento.domain;
+package br.com.allan.servicex5.pagamento.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
