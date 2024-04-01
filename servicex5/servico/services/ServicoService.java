@@ -1,9 +1,9 @@
-package br.com.allan.servicex55.servico.services;
+package br.com.allan.servicex5.servico.services;
 
-import br.com.allan.servicex55.categoria.domain.Categoria;
-import br.com.allan.servicex55.categoria.repositories.CategoriaRepository;
-import br.com.allan.servicex55.servico.domain.Servico;
-import br.com.allan.servicex55.servico.repositories.ServicoRepository;
+import br.com.allan.servicex5.categoria.domain.Categoria;
+import br.com.allan.servicex5.categoria.repositories.CategoriaRepository;
+import br.com.allan.servicex5.servico.domain.Servico;
+import br.com.allan.servicex5.servico.repositories.ServicoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
