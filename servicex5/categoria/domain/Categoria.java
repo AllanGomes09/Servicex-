@@ -1,6 +1,6 @@
-package br.com.allan.servicex55.categoria.domain;
+package br.com.allan.servicex5.categoria.domain;
 
-import br.com.allan.servicex55.servico.domain.Servico;
+import br.com.allan.servicex5.servico.domain.Servico;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.Data;
